@@ -25,6 +25,7 @@
 .two-thirds-left {
   display: inline;
   float: left;
+  width: 66.666%;
   
 }
 
