@@ -22,6 +22,10 @@
   clear: both;
 }
 
+.two-thirds-left {
+  display: inline;
+  float: left;
+  
+}
+
 /* Posititoning Classes */
-
-
