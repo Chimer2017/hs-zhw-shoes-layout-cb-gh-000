@@ -22,14 +22,14 @@
   clear: both;
 }
 
-.two-thirds-left {
+#two-thirds-left {
   display: inline;
   float: left;
   width: 400px;
 
 }
 
-.one-third-right {
+#one-third-right {
   display: inline;
   float: right;
   width: 150px;
