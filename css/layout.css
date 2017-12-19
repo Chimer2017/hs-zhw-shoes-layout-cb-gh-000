@@ -29,4 +29,10 @@
 
 }
 
+.one-third-right {
+  display: inline;
+  clear: right;
+  width: 150px;
+}
+
 /* Posititoning Classes */
