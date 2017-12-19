@@ -25,14 +25,14 @@
 #two-thirds-left {
   display: inline;
   float: left;
-  width: 400px;
+  width: 66.666;
 
 }
 
 #one-third-right {
   display: inline;
   float: right;
-  width: 150px;
+  width: 33.333;
 }
 
 /* Posititoning Classes */
