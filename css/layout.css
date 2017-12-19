@@ -24,14 +24,14 @@
 
 .two-thirds-left {
   display: inline;
-  clear: left;
+  float: left;
   width: 400px;
 
 }
 
 .one-third-right {
   display: inline;
-  clear: right;
+  float: right;
   width: 150px;
 }
 
